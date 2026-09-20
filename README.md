@@ -1,6 +1,6 @@
 # Hi, I'm Judy Ismael 👋
 
-**4th-year Informatics Engineering student** specializing in Artificial Intelligence, currently building my path toward becoming an **AI Engineer**.
+**5th-year Informatics Engineering student,last year at univercity** specializing in Artificial Intelligence, currently building my path toward becoming an **AI Engineer**.
 
 I'm interested in combining **AI + Backend Development** to build intelligent, production-ready applications. I enjoy learning by building projects and gradually expanding my knowledge in machine learning and software engineering.
 
